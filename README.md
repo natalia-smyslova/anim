@@ -2,6 +2,7 @@
 
 [![Netology AHJ](https://github.com/natalia-smyslova/anim/actions/workflows/web.yml/badge.svg)](https://github.com/natalia-smyslova/anim/actions/workflows/web.yml)
 
+[ДЕМО](https://natalia-smyslova.github.io/anim/)
 
 ### Collapse
 
